@@ -1,0 +1,17 @@
+#main {background-color: #fdd7e4;
+  background-image:                 url("https://www.transparenttextures.com/patterns/old-mathematics.png");}
+
+  #top {background-color: #ADADAD; text-align: center; padding-top: 10px; padding-bottom: 1px; color: #ededed;}
+
+#img-div {display: grid;
+    justify-content: center; padding: 50px 50px 50px 50px;}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;}
+
+#img-caption {text-align: center; margin: 0px 0px 0px 0px; color: #808080; font-weight: bold;}
+
+#tribute-info {margin: 0px 50px 10px 50px; text-align: center; font-weight: bold; background-color: #ADADAD; color: #ededed;}
